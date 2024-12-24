@@ -1,0 +1,6 @@
+Flask
+pymongo
+fpdf
+python-dotenv
+Flask-Cors
+matplotlib
